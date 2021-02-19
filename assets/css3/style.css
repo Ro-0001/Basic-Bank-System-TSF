@@ -59,7 +59,11 @@ body{
   /* color: white; */
 }
 /* navbar css ends here  */
-
+.cus
+{
+    font-family: 'Gill Sans Extrabold, sans-serif';
+    text-align-last: center;
+}
 /* here content css starts here  */
 .hero-content{
     height: 100vh;
